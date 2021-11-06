@@ -146,7 +146,7 @@ bare-key = "value"
 'quoted "value"' = "value"
 ```
 
-裸键中不能为空，但空引号键是允许的（虽然不建议如此）。
+裸键不能为空，但空引号键是允许的（虽然不建议如此）。
 
 ```toml
 = "no key name"  # 非法
