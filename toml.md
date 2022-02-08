@@ -961,4 +961,4 @@ TOML 文件应当使用 `.toml` 扩展名。
 
 TOML 语法的严谨说明，由一个 [ABNF 文件][abnf]另行提供。
 
-[abnf]: https://github.com/toml-lang/toml/blob/1.0.0/toml.abnf
+[abnf]: https://github.com/LongTengDao/TOML/blob/%E9%BE%99%E8%85%BE%E9%81%93-%E8%AF%91/toml.abnf
